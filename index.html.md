@@ -23,7 +23,7 @@ format:
 **Zamora Thowinsson Jesús David**[^1]:<br> [info.thowinsson\@gmail.com](mailto:info.thowinsson@gmail.com)<br>Barranquilla, Colombia.
 :::
 
-[^1]: [*Jesús David Zamora Thowinsson*](https://es.overleaf.com/project/67fc8e737a504451f7115483). Economista y Administrador Público, Especialista en Estadística Aplicada, Candidato a Magíster Scientiarum en Gerencia Empresarial, Magíster en Estadística Aplicada.
+[^1]: [*Jesús David Zamora Thowinsson*](https://es.overleaf.com/read/fbmmhfwwmrkz#918dbd). Economista y Administrador Público, Especialista en Estadística Aplicada, Candidato a Magíster Scientiarum en Gerencia Empresarial, Magíster en Estadística Aplicada.
 
 ```{=html}
 <style>
@@ -49,7 +49,7 @@ format:
 ::: {style="text-align: justify;"}
 **Economista** con Minor en Finanzas y **Administrador Público** de la Escuela Superior de Administración Pública (ESAP). **Especialista en Estadística Aplicada** de la Universidad del Atlántico, soy candidato a **Magíster Scientiarum en Gerencia Empresarial** por la Universidad Internacional de la URBE y **Magíster en Estadística Aplicada** en desarrollo por la Universidad del Norte.
 
-Como **instructor en carrera administrativa del Servicio Nacional de Aprendizaje (SENA)**, me he consolidado como **experto en administración y análisis de bases de datos**, y en la aplicación de **análisis estadísticos y econométricos**. Poseo habilidades avanzadas en el manejo de softwares especializados como: **Statgraphics 18 - X64, R, Stata, SPSS – IBM, E-Views, Octave y Jamovi**. Además, soy **experto en Excel avanzado** y tengo dominio de herramientas de visualización de datos como **Power BI**.
+Como **instructor en carrera administrativa del Servicio Nacional de Aprendizaje (SENA)**, me he consolidado como **experto en administración y análisis de bases de datos**, y en la aplicación de **análisis estadísticos y econométricos**. Poseo habilidades avanzadas en el manejo de softwares especializados como: **R, RStudio, SPSS – IBM, Octave y Jamovi, Google Colab**. Además, soy **experto en Excel avanzado** y tengo dominio de herramientas de visualización de datos como **Power BI**.
 
 Mi experiencia incluye la **formación y el desarrollo de talento** en áreas clave como **Negocios Internacionales, Gestión de Mercados, Dirección de Ventas y Procesos para la Comercialización Internacional**. También poseo competencias en el uso de lenguajes como **LaTeX y Markdown**, así como plataformas y entornos de desarrollo como **Quarto, Jupyter Notebook y Visual Studio Code**.
 :::
@@ -101,27 +101,31 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 4. Rpubs [Click Aquí](https://rpubs.com/j_zamoraTh)
 
+# Cursos 
+
+1. Latex Curso de Cero a Experto 48H [Click Aquí](https://www.overleaf.com/read/qcwgrjnfhctf#3aaa37)
+
 # Estadística Básica
 
-2.1. Estadística Descriptiva
+5.1. Estadística Descriptiva
 
-2.2. Probabilidades
+5.2. Probabilidades
 
-2.3. Distribución de Probabilidades
+5.3. Distribución de Probabilidades
 
 # Estadística Inferencial
 
-3.0. Estadística inferencial (toc): Click aquí.
+6.0. Estadística inferencial (toc): Click aquí.
 
-3.1. Distribución muestral: Click aquí.
+6.1. Distribución muestral: Click aquí.
 
-3.2. Estimación: Click aquí.
+6.2. Estimación: Click aquí.
 
-3.3. Pruebas de hipótesis: Click aquí.
+6.3. Pruebas de hipótesis: Click aquí.
 
-3.4. Análisis de datos categóricos: Click aquí.
+6.4. Análisis de datos categóricos: Click aquí.
 
-3.5. Diseño de experimentos: Click aquí.
+6.5. Diseño de experimentos: Click aquí.
 
-3.6. Regresión lineal: Click aquí.
+6.6. Regresión lineal: Click aquí.
 
