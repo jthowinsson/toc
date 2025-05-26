@@ -91,6 +91,8 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 1.  R Studio [Click Aquí](https://posit.co/download/rstudio-desktop/)
 
+1.1. Uso básico de RStudio [Click Aquí](https://rpubs.com/hllinas/R_Enlaces_Materiales)
+
 2.  R para Windows [Click Aquí](https://cran.r-project.org/bin/windows/base/)
 
 3.  R para Mac [Click Aquí](https://cran.r-project.org/bin/macosx/)
@@ -121,7 +123,9 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 5.1. Estadística Descriptiva
 
-  1. [Introducción a la Estadística Aplicada](<https://docs.google.com/presentation/d/1SRhGAL8InysfbCsqVt6CSk7-xu9eEcPjGfQBBHEwnwA/edit?usp=sharing>)
+1.  [Introducción a la Estadística Aplicada](https://docs.google.com/presentation/d/1SRhGAL8InysfbCsqVt6CSk7-xu9eEcPjGfQBBHEwnwA/edit?usp=sharing)
+
+2. [Variables y Datos Estadístico](https://docs.google.com/presentation/d/1-w-BzsHq9D5OwRqTN8tVdcfzCxI7EnSWjhyJjowTo-s/edit?usp=sharing)
 
 5.2. Probabilidades
 
