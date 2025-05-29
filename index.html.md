@@ -54,6 +54,17 @@ Mi experiencia incluye la **formación y el desarrollo de talento** en áreas cl
 También poseo competencias en el uso de lenguajes como **LaTeX y Markdown**, así como plataformas y entornos de desarrollo como **Quarto, Jupyter Notebook y Visual Studio Code**.
 :::
 
+::: {style="text-align: justify;"}
+**Contribuciones Profesionales**
+:::
+
+**2023-2024** Participación como experto del sector en la estructura cualificación de los catálogos de mercadeo para el SENA, específicamente en los siguientes perfiles:
+
+- 41322 Digitadores  
+- 42270 Entrevistadores de Encuestas y de Investigaciones de Mercado  
+- 43121 Auxiliares de Servicios Estadísticos
+
+
 ::: {style="text-align: center;"}
 **Abstract**
 :::
@@ -113,7 +124,7 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 1.  [Introducción a la Estadística Aplicada](https://docs.google.com/presentation/d/1SRhGAL8InysfbCsqVt6CSk7-xu9eEcPjGfQBBHEwnwA/edit?usp=sharing)
 
-2. [Variables y Datos Estadístico](https://docs.google.com/presentation/d/1-w-BzsHq9D5OwRqTN8tVdcfzCxI7EnSWjhyJjowTo-s/edit?usp=sharing)
+2.  [Variables y Datos Estadístico](https://docs.google.com/presentation/d/1-w-BzsHq9D5OwRqTN8tVdcfzCxI7EnSWjhyJjowTo-s/edit?usp=sharing)
 
 5.2. Probabilidades
 
@@ -134,3 +145,13 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 6.5. Diseño de experimentos: Click aquí.
 
 6.6. Regresión lineal: Click aquí.
+
+# Bibliografía
+
+-   Posada Hernández, G. J. (2016). **Elementos básicos de estadística descriptiva para el análisis de datos**. Recuperado [Aqúi](https://drive.google.com/file/d/1ja5AuXE7wAnLGUtmvt38z-dWEOb5r0Zp/view?usp=sharing)
+
+-   Salazar, C., & Del Castillo, S. (2018). **Fundamentos básicos de estadística**. Recuperado [Aquí](https://drive.google.com/file/d/1Oe3nvL9rpIffAenujJdVGK26AhS4atGi/view?usp=sharing)
+
+-   Mendenhall, W., Beaver, R. J., & Beaver, B. M. (s.f.). **Introducción a la probabilidad y estadística (13ª ed.)**. Recuperado [Aquí](https://drive.google.com/file/d/12PRnXLD2MdrfhIH7iNbqt1_axynxaf4G/view?usp=sharing)
+
+-   Levin, R. I., Rubin, D. S., Balderas del Valle, M. J., & Gómez, S. (2004). **Estadística para Administración y Economía (7ª ed.)**. Pearson Prentice Hall. Recuperado [Aquí](https://drive.google.com/file/d/1cCw9VycFHHzUdKHdijp53B_deZw0t6V0/view?usp=sharing)
