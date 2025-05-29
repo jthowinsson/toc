@@ -5,11 +5,6 @@ on:
     branches:
       - master
 
-permissions: # <--- ¡¡¡AÑADE ESTA SECCIÓN AQUÍ!!!
-  contents: write # Permite al bot escribir en el repositorio
-  pages: write    # Permite al bot gestionar despliegues de GitHub Pages
-  id-token: write # Necesario si GitHub Pages usa autenticación OIDC, buena práctica incluirlo.
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -24,13 +19,10 @@ jobs:
       run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
-        # Esta línea puede ser simplificada si se usa el método de acciones/checkout con token
-        # o si los permisos son correctos. Pero la mantendremos por ahora si está funcionando.
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
     - name: Delete gh-pages branch from remote
       run: |
-        # Añadir '&& true' o '|| true' para que el workflow no falle si la rama no existe
         git push origin --delete gh-pages || true
 
     - name: Create new gh-pages branch
