@@ -64,6 +64,7 @@ También poseo competencias en el uso de lenguajes como **LaTeX y Markdown**, as
 - 42270 Entrevistadores de Encuestas y de Investigaciones de Mercado  
 - 43121 Auxiliares de Servicios Estadísticos
 
+Consultar Catalogos [Aquí](https://observatorio.sena.edu.co/Clasificacion/CnoDetalle) 
 
 ::: {style="text-align: center;"}
 **Abstract**
