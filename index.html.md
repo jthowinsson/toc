@@ -127,7 +127,7 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 2.  [Variables y Datos Estadístico](https://docs.google.com/presentation/d/1-w-BzsHq9D5OwRqTN8tVdcfzCxI7EnSWjhyJjowTo-s/edit?usp=sharing)
 
-3. [Distribución de Frecuencias](https://docs.google.com/presentation/d/1PpScmUfx63xGBf4XKlzbhYRVI8W9nbTaATpJPQwEL4E/edit?usp=sharing)
+3. [Distribución de Frecuencias](https://docs.google.com/presentation/d/1IxpfTh-IaW2UACih77pe5YSpxhaqB3okjpq5F86ge2g/edit?usp=drive_link)
 
 5.2. Probabilidades
 
