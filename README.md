@@ -13,3 +13,8 @@
 
 # 1. Description
 <p style="font-size: 0.1em;">🔝 <a href="#table-of-contents">Toc</a></p>
+
+```js
+// Display only the top n countries
+const n = 5;
+```
