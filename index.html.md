@@ -129,6 +129,8 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 3. [Distribución de Frecuencias](https://docs.google.com/presentation/d/1_pv3531AUQlZxq95J1gL3bqp8NnY31am7jp4YF7cztA/edit?usp=sharing)
 
+4. [Medidas de Tendencia Central](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/EQjbwInHP3tHvFmUvWNg-cUBIyGSWCvf7xqG51xRGS8eGg?e=CctLbo)
+
 5.2. Probabilidades
 
 5.3. Distribución de Probabilidades
