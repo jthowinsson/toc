@@ -143,6 +143,8 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 4. [Medidas de Tendencia Central](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/EQMiNjI8YfxBjnoXHQFV0SgBc9O14jaVn4gvIjWXE_YCkQ?e=DqoLhI)
 
+5. [Medidas de Dispersión]()
+
 5.2. Probabilidades
 
 5.3. Distribución de Probabilidades
