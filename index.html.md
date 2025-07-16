@@ -131,7 +131,9 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 4. [Medidas de Tendencia Central](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/EY6UPOI_6_9MjWFxthgrPOYB9DHejV44Dm6rqzhcmCJt0g?e=bgmuHE)
 
-5. [Medidas de Dispersión](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/EU4fz2YgT0pHqckI5aOjOy4B5CW5_H5wvh6O7ogaCQpAzA?e=z3bKgO)
+5. [Medidas de Dispersión](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/EXl0B6yjBElBupTMVWcOfSgB9NaamMLzp-cq_ZMY1c9qyg?e=AuhKsV)
+
+6. [Medidas de Posición]()
 
 5.2. Probabilidades
 
