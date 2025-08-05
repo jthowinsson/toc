@@ -137,7 +137,7 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 5.2. Probabilidades
 
-5.3. [Introducción Probabilidad Básica](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/Edtw1SnTNgNCqh63GQgsF4oBwwYNmG_ddHMmglZAmZoBYQ?e=sh4fjR)
+5.3. [Introducción Probabilidad Básica](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/EbI45UVfGQFIs99KKVt9wJMBlbFih8UAW0JK8qObd_qGHA?e=qPFrUV)
 
 5.4. Distribución de Probabilidades
 
