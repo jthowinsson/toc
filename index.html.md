@@ -133,11 +133,13 @@ Esta asignatura sienta las bases para cursos posteriores en estadística inferen
 
 5. [Medidas de Dispersión](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/EWYev34Q3tBEgr1rmkuKkMcBsu2vJqrubaqh7E3_teBw-Q?e=z0rqfr)
 
-6. [Medidas de Posición]()
+6. [Medidas de Posición](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/Edtw1SnTNgNCqh63GQgsF4oBwwYNmG_ddHMmglZAmZoBYQ?e=n5BOfr)
 
 5.2. Probabilidades
 
-5.3. Distribución de Probabilidades
+5.3. [Introducción Probabilidad Básica](https://itsaedu-my.sharepoint.com/:p:/g/personal/jdavidzamora_unibarranquilla_edu_co/Edtw1SnTNgNCqh63GQgsF4oBwwYNmG_ddHMmglZAmZoBYQ?e=sh4fjR)
+
+5.4. Distribución de Probabilidades
 
 # Estadística Inferencial
 
